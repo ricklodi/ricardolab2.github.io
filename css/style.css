@@ -47,7 +47,7 @@ header #topmenu{
 }
 
 header #topmenu h1{
-	margin: 0
+	margin: 0;
 }
 
 header nav{
@@ -115,4 +115,23 @@ header a:hover{
 	margin-right: 5%;
 	font-size: 20px;
 	vertical-align: middle;
+}
+
+.para1 {
+	margin-left: 20px;
+	margin-right: 20px;
+	text-align: center;
+}
+
+hr.hrborder{
+	border: 5px solid darkblue;
+  border-radius: 5px;
+	width: 50%;
+}
+
+.skills{
+	display: inline-block;
+	text-align: left;
+	border: 5px solid darkblue;
+	padding: 10px;
 }
